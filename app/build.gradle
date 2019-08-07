@@ -38,7 +38,8 @@ dependencies {
     kapt "com.airbnb.android:epoxy-processor:$epoxyVersion"
     implementation "com.squareup.moshi:moshi-kotlin:$moshiVersion"
     kapt "com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion"
-    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
     implementation 'com.airbnb.android:lottie:3.0.0'
+    implementation 'com.airbnb.android:mvrx:1.0.2'
 
 }

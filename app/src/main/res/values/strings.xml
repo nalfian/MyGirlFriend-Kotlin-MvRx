@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Try MvRx</string>
+    <string name="meet_your_girlfriend">Time to meet your new girlfriend!</string>
+    <string name="meetup">Meetup %1$s!</string>
+    <string name="meetup_girlfriend">Meetup Girlfriend...</string>
+    <string name="love_girlfriend">I love this Girlfriend!</string>
 </resources>
